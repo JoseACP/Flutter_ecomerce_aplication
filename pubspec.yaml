@@ -1,0 +1,60 @@
+name: flutter_application_store
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  hive: any
+  hive_flutter: any
+  flutter_rating_bar: ^4.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+  - assets/nuts.jpg
+  - assets/fruit.jpeg
+  - assets/beans.jpg
+  - assets/bag.png
+  - assets/nuts.jpg
+  - assets/fruit.jpeg
+  - assets/beans.jpg
+  - assets/bag.png
+  - assets/splash.png
+  - assets/1.png
+  - assets/2.png
+  - assets/3.png
+  - assets/4.png
+  - assets/5.png
+  - assets/6.png
+  - assets/7.png
+  - assets/caro_icon.jpg
+  - assets/pepe_icon.jpg
+  - assets/carlos_icon.jpg
+  - assets/gustavo_icon.jpg
+  - assets/alan_icon.jpg
+  - assets/map.jpg
+  - assets/yo.jpg
+  - assets/waves.png
+  - assets/coco.png
+  - assets/nuez.png
+  - assets/example.png
+  - assets/heart.png
+  - assets/nuts.png
+  - assets/Mango.png
+  - assets/nuts_b.png
+  - assets/mango_b.png
+  - assets/fruits_b.png
+  - assets/food.png
+  - assets/plus.png
